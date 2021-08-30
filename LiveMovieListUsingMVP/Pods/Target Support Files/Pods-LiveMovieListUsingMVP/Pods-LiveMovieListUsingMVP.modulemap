@@ -1,0 +1,6 @@
+framework module Pods_LiveMovieListUsingMVP {
+  umbrella header "Pods-LiveMovieListUsingMVP-umbrella.h"
+
+  export *
+  module * { export * }
+}
